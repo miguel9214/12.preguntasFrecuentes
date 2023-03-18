@@ -105,3 +105,16 @@ h1 {
 .faq.active .faq-toggle {
   background-color: #9fa4a8;
 }
+
+.marca{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.marca-texto{
+    font-size: 20px;
+    background-color: #d8d9cf;
+    border-radius: 5px;
+    padding: 10px;
+}
